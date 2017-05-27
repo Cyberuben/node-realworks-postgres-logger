@@ -1,6 +1,6 @@
 {
   "name": "realworks-postgres-logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Logging to a Postgres database for the realworks npm module",
   "main": "lib/index.js",
   "scripts": {
